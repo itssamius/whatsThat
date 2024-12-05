@@ -1,0 +1,1 @@
+export const PLANT_ID_API_KEY = "2aH281hjISxviCEg3uetwClVTPy6jc67CGjiOBJll83AI9SA4W";
